@@ -1,2 +1,2 @@
-# tec-blog
-Projeto de um blog
+# TecBlog
+Projeto fictício de um blog de tecnologia 
