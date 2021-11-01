@@ -1,0 +1,109 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #e6e6e6;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 1em;
+}
+
+#header {
+  background-color: #f7b600;
+  padding: 16px;
+  text-align: center;
+}
+
+#logo, #navbar {
+  padding: 16px;
+}
+
+#main {
+  margin: 0 auto;
+  padding: 16px;
+  width: 920px;
+}
+
+#newsfeed {
+  float: left;
+  width: 660px;
+}
+
+#sidemenu {
+  float: right;
+  width: 240px;
+}
+
+#footer {
+  background-color: #cccccc;
+  clear: both;
+  padding: 16px;
+  text-align: center;
+}
+
+h1 {
+  color: #4e4e4e;
+  font-size: 2.5em;
+}
+
+h2 {
+  color: #f7b600;
+}
+
+h3 {
+  background-color: #cccccc;
+  color: #565656;
+  padding: 4px;
+}
+
+.logo {
+  color: #ffffff;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link, a:visited {
+  color: #f7b600;
+}
+
+a:hover {
+ text-decoration: underline;
+}
+
+#navbar a:link, #navbar a:visited {
+  color: #ffffff;
+  padding: 8px 12px;
+}
+
+#navbar a:hover {
+  background-color: #ffffff;
+  color: #f7b600;
+  text-decoration: none;
+}
+
+.post {
+  background-color: #ffffff;
+  margin-bottom: 16px;
+  padding: 20px;
+}
+
+.post-date {
+  display: block;
+  font-size: 0.8em;
+  font-weight: bold;
+  margin-bottom: 16px;
+}
+
+.recent-post-container {
+  background-color: #ffffff;
+  margin-bottom: 16px;
+  padding: 16px;
+}
+
+.recent-post {
+  font-size: 0.8em;
+  padding: 4px;
+}
